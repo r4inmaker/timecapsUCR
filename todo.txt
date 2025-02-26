@@ -1,0 +1,32 @@
+TODO
+
+1) Look at all UCR datasets and look up potential candidates for paper
+> 
+
+2) Write some functions that extract data out of them and form DATASET and DATALOADER in torch
+>
+
+3) Make model capable of taking in arbitrarily long inputs and work with an arbitray number of classes
+>
+
+4) Fix the decoder so that it works with requirements from (3)
+>
+
+5) Iteratively improve the model on one dataset, potentially add {
+        - more routing layers
+        - better decoder
+        - attention mechanism
+    }
+>
+
+6) Fine tune the fuck out of it on cherry picked datasets
+>
+
+7) Write the paper
+>
+
+8) Dont kys
+>
+
+9) $$ Profit $$
+>
